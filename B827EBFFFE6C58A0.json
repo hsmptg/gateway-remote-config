@@ -9,8 +9,8 @@
 				"serv_enabled": true
 			}
 		],
-		"ref_latitude": 41,24213332,
-		"ref_longitude": -8,63810777,
+		"ref_latitude": 41.24213332,
+		"ref_longitude": -8.63810777,
 		"ref_altitude": 64,
 		"contact_email": "hsmptg@gmail.com",
 		"description": "hsmptg LoRa gateway"
